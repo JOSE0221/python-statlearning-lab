@@ -119,7 +119,7 @@ If you have any questions or issues, feel free to **open a GitHub issue** or ema
 
 ### 1. Installing Python
 
-To run the materials in this repository, you need Python 3.#. You can set up Python using one of the following methods:
+To run the materials in this repository, you need Python 3.# or use google colab (See Option A). You can set up Python using one of the following methods:
 
 - **Miniconda**: Miniconda provides an isolated Python environment and an easy way to manage packages. Download it from [Miniconda's official website](https://docs.conda.io/en/latest/miniconda.html).  
 - **Python.org**: Download and install the latest version of Python from [python.org](https://www.python.org/downloads/). Ensure that you check the option to add Python to your PATH during installation.
