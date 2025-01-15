@@ -95,9 +95,6 @@ Classes take place **from 7:00 PM to 8:30 PM** on scheduled dates, indicated bel
 
 ## Repository Structure
 
-python-statlearning-lab/ ├── README.md # This file ├── week1/ │ ├── introduction_to_python.ipynb │ └── ... ├── week2/ │ ├── scraping_administrative_news.ipynb │ ├── scraping_social_media.ipynb │ └── ... ├── week4/ │ ├── machine_learning_lecture.ipynb │ ├── deep_learning_lecture.ipynb │ └── ... └── week8/ ├── nlp_lecture_part1.ipynb ├── nlp_lecture_part2.ipynb └── ...
-
-
 - Each **`weekX/`** folder contains Jupyter notebooks and resources for the respective sessions (e.g., Week 1, Week 2, Week 4, Week 8).  
 - Organize your lecture materials, data, or additional scripts accordingly.
 
@@ -105,35 +102,15 @@ python-statlearning-lab/ ├── README.md # This file ├── week1/ │ �
 
 ## Getting Started
 
-1. **Clone or Download this Repository**  
-   - Click the green “Code” button on this GitHub page.  
-   - Copy the HTTPS or SSH link and run `git clone <URL>` in your terminal, or choose **“Download ZIP”** to get a compressed version.
-
-2. **Install Python & Libraries**  
+1. **Install Python & Libraries**  
    - Refer to the [Appendix: Installation Guide](#appendix-installation-guide) below for a detailed overview.  
-   - Using **Anaconda** or **Miniconda** is recommended for an easy setup.
-
-3. **Open the Notebooks**  
-   - In a terminal or Anaconda Prompt, navigate to the repository folder and run:  
-     ```bash
-     jupyter lab
-     ```  
-     or  
-     ```bash
-     jupyter notebook
-     ```
-   - Alternatively, open the `.ipynb` files in **Visual Studio Code** with the Python and Jupyter extensions installed.
-
-4. **Follow Along in Class**  
-   - Each folder (e.g., `week1`, `week2`, `week4`, `week8`) corresponds to a specific series of lectures.  
-   - Run the cells in each notebook, read the explanations, and work on the provided exercises.
-
+   - Using **jupyter**, **Miniconda** or **Visual Studio Code** is recommended for an easy setup.
 ---
 
 ## Contact
 
 - **Instructor**: José Luis  
-- **Email**: [Your Instructor’s Email Here]  
+- **Email**: jose.perez.castellanos@itam.mx
 
 If you have any questions or issues, feel free to **open a GitHub issue** or email the instructor.
 
