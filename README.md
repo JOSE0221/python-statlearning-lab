@@ -1,10 +1,10 @@
 # python-statlearning-lab
 
-This repository hosts materials for a series of Python-focused classes led by José Luis. The sessions cover topics ranging from introductory Python to web scraping, machine learning, deep learning, and natural language processing (NLP). Class times are from 7:00 PM to 8:30 PM on specified dates.
+This repository is part of the topic: "Investigación Avanzada II". Class times are from 7:00 PM to 8:30 PM on specified dates.
 
 # Python Data Collection, Machine Learning, and NLP (2025)
 
-Welcome to the **Python Data Collection, Machine Learning, and NLP** repository! This collection of materials is designed to help you follow along with a series of hands-on classes led by **José Luis**. 
+Welcome to the **Python Data Collection, Machine Learning, and NLP** repository! This collection of materials is designed to help you follow along with a series of hands-on classes.
 
 ## Table of Contents
 1. [Course Description](#course-description)
