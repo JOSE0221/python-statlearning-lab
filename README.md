@@ -32,32 +32,32 @@ Classes take place **from 7:00 PM to 8:30 PM** on scheduled dates, indicated bel
 ## Schedule
 
 **Week 1 (January 17th, 2025)**  
-- **Introduction to Python** (led by José Luis)  
+- **Introduction to Python**
   *7:00 PM – 8:30 PM*
 
 **Week 2 (January 22nd, 2025)**  
-- **Scraping Administrative and News Websites in Python** (led by José Luis)  
+- **Scraping Administrative and News Websites in Python** 
   *7:00 PM – 8:30 PM*
 
 **Week 2 (January 24th, 2025)**  
-- **Scraping Social Media Data in Python** (led by José Luis)  
+- **Scraping Social Media Data in Python**
   *7:00 PM – 8:30 PM*
 
 **Week 4 (February 5th, 2025)**  
-- **Machine Learning Lecture** (led by José Luis)  
+- **Machine Learning Lecture** 
   *7:00 PM – 8:30 PM*
 
 **Week 4 (February 7th, 2025)**  
-- **Deep Learning Lecture** (led by José Luis)  
+- **Deep Learning Lecture** 
   *7:00 PM – 8:30 PM*
 
 **Week 8 (March 5th, 2025)**  
-- **Natural Language Processing (NLP)** (led by José Luis)  
+- **Natural Language Processing (NLP)** 
   *7:00 PM – 8:30 PM*  
   *Covers supervised/unsupervised ML, topic modeling, labeling with BERT, and sentiment analysis.*
 
 **Week 8 (March 7th, 2025)**  
-- **Continuation of the NLP Lecture** (led by José Luis)  
+- **Continuation of the NLP Lecture** 
   *7:00 PM – 8:30 PM*
 
 ---
@@ -77,7 +77,7 @@ Classes take place **from 7:00 PM to 8:30 PM** on scheduled dates, indicated bel
    - Overview of unsupervised learning (clustering, dimensionality reduction)  
 
 4. **Deep Learning**  
-   - Introduction to neural networks and frameworks (e.g., TensorFlow, PyTorch)  
+   - Introduction to neural networks and frameworks
    - Basic building blocks of deep models  
 
 5. **Natural Language Processing (NLP)**  
