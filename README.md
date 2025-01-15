@@ -18,7 +18,6 @@ Welcome to the **Python Data Collection, Machine Learning, and NLP** repository!
 5. [Getting Started](#getting-started)  
 6. [Contact](#contact)  
 7. [Appendix: Installation Guide](#appendix-installation-guide)  
-8. [Steps to Create or Update Your Repository](#steps-to-create-or-update-your-repository)
 
 ---
 
@@ -104,7 +103,8 @@ Classes take place **from 7:00 PM to 8:30 PM** on scheduled dates, indicated bel
 
 1. **Install Python & Libraries**  
    - Refer to the [Appendix: Installation Guide](#appendix-installation-guide) below for a detailed overview.  
-   - Using **jupyter**, **Miniconda** or **Visual Studio Code** is recommended for an easy setup.
+   - Using **Jupyter**, **Miniconda**, **Google Colab**, or **Visual Studio Code** is recommended for an easy setup.
+
 ---
 
 ## Contact
@@ -118,23 +118,103 @@ If you have any questions or issues, feel free to **open a GitHub issue** or ema
 
 ## Appendix: Installation Guide
 
-Below is a concise overview of how to set up your environment for these classes.
+### 1. Installing Python
 
-### 1. Installing Python 3
+To run the materials in this repository, you need Python 3.#. You can set up Python using one of the following methods:
 
-- **Anaconda (Recommended)**  
-  - Visit [https://www.anaconda.com/](https://www.anaconda.com/) and download the **Anaconda** distribution for your operating system (Windows, macOS, or Linux).  
-  - This includes Python 3, Jupyter, and many data science libraries by default.  
-  - On Windows, consider checking “Add Anaconda to my PATH” during installation if prompted.
+- **Miniconda (Recommended)**: Miniconda provides an isolated Python environment and an easy way to manage packages. Download it from [Miniconda's official website](https://docs.conda.io/en/latest/miniconda.html).  
+- **Python.org**: Download and install the latest version of Python from [python.org](https://www.python.org/downloads/). Ensure that you check the option to add Python to your PATH during installation.
 
-- **Miniconda (Lightweight Alternative)**  
-  - If you prefer a minimal environment, get **Miniconda** from [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html).  
-  - You can then install only the packages you need for this course.
+---
 
-### 2. Verifying Your Installation
+### 2. Setting up Jupyter Notebooks
 
-After installing Anaconda or Miniconda, open a terminal (macOS/Linux) or Anaconda Prompt (Windows) and run:
+You can choose one of the following environments to work with Jupyter Notebooks:
 
-```bash
-conda --version
-python --version
+#### **Option A: Miniconda (Recommended)**
+
+1. **Install Miniconda**  
+   - Download Miniconda for your operating system from [Miniconda's official website](https://docs.conda.io/en/latest/miniconda.html).  
+   - Follow the installation steps, ensuring that Miniconda is added to your system's PATH during setup.
+
+2. **Create a New Environment**  
+   - Open your terminal (Command Prompt, PowerShell, or Terminal).  
+   - Create a new environment:  
+     ```bash
+     conda create --name statlearn python=3.9
+     ```
+   - Activate the environment:  
+     ```bash
+     conda activate statlearn
+     ```
+
+3. **Install JupyterLab and Dependencies**  
+   - Install JupyterLab:  
+     ```bash
+     conda install -c conda-forge jupyterlab
+     ```
+   - Install additional libraries:  
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+4. **Launch JupyterLab**  
+   - Run the following command to start JupyterLab:  
+     ```bash
+     jupyter lab
+     ```
+   - Open the URL displayed in your terminal to access the Jupyter interface in your browser.
+
+---
+
+#### **Option B: Google Colab**
+
+Google Colab is a cloud-based tool that requires no local installation. It's particularly useful if you want to avoid setting up Python on your system.
+
+1. **Visit Google Colab**  
+   - Go to [Google Colab](https://colab.research.google.com/).  
+
+2. **Upload Notebook Files**  
+   - Upload `.ipynb` files from this repository by clicking on the "File" menu and selecting "Upload notebook."
+
+3. **Install Required Libraries**  
+   - Use the following code snippet in a Colab cell to install any dependencies:  
+     ```python
+     !pip install -r requirements.txt
+     ```
+
+4. **Run Notebooks**  
+   - Colab provides a ready-to-use Jupyter interface in your browser.
+
+---
+
+#### **Option C: Visual Studio Code**
+
+Visual Studio Code (VS Code) is a versatile code editor that supports Jupyter Notebooks through extensions.
+
+1. **Install VS Code**  
+   - Download and install Visual Studio Code from [code.visualstudio.com](https://code.visualstudio.com/).
+
+2. **Install the Python Extension**  
+   - Open VS Code and go to the Extensions view (`Ctrl+Shift+X` or `Cmd+Shift+X` on macOS).  
+   - Search for "Python" and install the extension provided by Microsoft.
+
+3. **Set Up Your Python Environment**  
+   - Use the terminal in VS Code to activate your Miniconda environment:  
+     ```bash
+     conda activate statlearn
+     ```
+
+4. **Open a Notebook**  
+   - Open the repository folder in VS Code.  
+   - Open a `.ipynb` file; the Python extension will automatically enable Jupyter support.
+
+5. **Install Required Libraries**  
+   - Ensure all dependencies are installed using:  
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+---
+
+With these options, you can choose the setup that best suits your workflow and preferences. For troubleshooting or additional support, refer to the [Jupyter Documentation](https://jupyter.org/documentation).
