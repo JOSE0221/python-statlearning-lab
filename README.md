@@ -79,11 +79,11 @@ Classes take place **from 7:00 PM to 8:30 PM** on scheduled dates, indicated bel
    - Techniques for scraping administrative, news, and social media websites  
 
 3. **Machine Learning**  
-   - Overview of supervised learning (classification, regression)  
+   - Overview of supervised learning (classification & regression)  
    - Overview of unsupervised learning (clustering, dimensionality reduction)  
 
 4. **Deep Learning**  
-   - Introduction to neural networks and frameworks (e.g., TensorFlow, PyTorch)  
+   - Introduction to deep learning
    - Basic building blocks of deep models  
 
 5. **Natural Language Processing (NLP)**  
@@ -95,7 +95,6 @@ Classes take place **from 7:00 PM to 8:30 PM** on scheduled dates, indicated bel
 ## Repository Structure
 
 - Each **`weekX/`** folder contains Jupyter notebooks and resources for the respective sessions (e.g., Week 1, Week 2, Week 4, Week 8).  
-- Organize your lecture materials, data, or additional scripts accordingly.
 
 ---
 
@@ -122,7 +121,7 @@ If you have any questions or issues, feel free to **open a GitHub issue** or ema
 
 To run the materials in this repository, you need Python 3.#. You can set up Python using one of the following methods:
 
-- **Miniconda (Recommended)**: Miniconda provides an isolated Python environment and an easy way to manage packages. Download it from [Miniconda's official website](https://docs.conda.io/en/latest/miniconda.html).  
+- **Miniconda**: Miniconda provides an isolated Python environment and an easy way to manage packages. Download it from [Miniconda's official website](https://docs.conda.io/en/latest/miniconda.html).  
 - **Python.org**: Download and install the latest version of Python from [python.org](https://www.python.org/downloads/). Ensure that you check the option to add Python to your PATH during installation.
 
 ---
@@ -167,7 +166,7 @@ You can choose one of the following environments to work with Jupyter Notebooks:
 
 ---
 
-#### **Option B: Google Colab**
+#### **Option B: Google Colab (Recommended)**
 
 Google Colab is a cloud-based tool that requires no local installation. It's particularly useful if you want to avoid setting up Python on your system.
 
@@ -188,7 +187,7 @@ Google Colab is a cloud-based tool that requires no local installation. It's par
 
 ---
 
-#### **Option C: Visual Studio Code**
+#### **Option C: Visual Studio Code (Recommended)**
 
 Visual Studio Code (VS Code) is a versatile code editor that supports Jupyter Notebooks through extensions.
 
