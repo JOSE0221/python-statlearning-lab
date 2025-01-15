@@ -126,7 +126,7 @@ To run the materials in this repository, you need Python 3.#. You can set up Pyt
 
 ---
 
-### 2. Setting up Notebooks
+### 2. Setting up interface that runs code through a file called a notebook.
 
 You can choose one of the following environments to work with the Notebooks files:
 
