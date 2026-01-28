@@ -1,0 +1,341 @@
+Company Name,Revenue,Profit
+,,
+,,
+Walmart,Retail,"$648,125"
+Amazon,"Retail
+information technology","$574,785"
+State Grid Corporation of China,Electricity,"$545,948"
+Saudi Aramco,Oil and gas,"$488,980"
+China Petrochemical Corporation,Oil and gas,"$429,700"
+China National Petroleum Corporation,Oil and gas,"$476,000"
+Vitol,Commodities,"$400,000"
+Apple,Information technology,"$383,285"
+UnitedHealth Group,Healthcare,"$371,622"
+Berkshire Hathaway,Financials,"$364,482"
+CVS Health,Healthcare,"$357,776"
+Volkswagen Group,Automotive,"$348,408"
+ExxonMobil,Oil and gas,"$344,582"
+Shell,Oil and gas,"$323,183"
+China State Construction Engineering,Construction,"$320,431"
+Toyota,Automotive,"$312,018"
+McKesson,Healthcare,"$308,951"
+Alphabet,Information technology,"$307,394"
+Cencora,Healthcare,"$262,173"
+Microsoft,Information technology,"$245,122"
+Trafigura,Commodities,"$244,280"
+Costco,Retail,"$242,290"
+JPMorgan Chase,Financials,"$239,425"
+Industrial and Commercial Bank of China,Financials,"$222,484"
+TotalEnergies,Oil and gas,"$218,945"
+Glencore,Commodities,"$217,829"
+BP,Oil and gas,"$213,032"
+Cardinal Health,Healthcare,"$205,012"
+Stellantis,Automotive,"$204,908"
+Chevron,Oil and gas,"$200,949"
+China Construction Bank,Financials,"$199,826"
+Samsung Electronics,Electronics,"$198,257"
+Foxconn,Electronics,"$197,876"
+Cigna,Healthcare,"$195,265"
+Agricultural Bank of China,Financials,"$192,398"
+Schwarz Gruppe,Retail,"$180,576"
+China Railway Engineering Corporation,Construction,"$178,563"
+Cargill,Conglomerate,"$177,000"
+Ford Motor Company,Automotive,"$176,191"
+Bank of China,Financials,"$172,328"
+Bank of America,Financials,"$171,912"
+General Motors,Automotive,"$171,842"
+Elevance Health,Healthcare,"$171,340"
+BMW Group,Automotive,"$168,103"
+Tata Group,Conglomerate,"$165,500"
+Mercedes-Benz Group,Automotive,"$165,638"
+China Railway Construction Corporation,Construction,"$160,847"
+Baowu,Steel,"$157,216"
+Citigroup,Financials,"$156,820"
+Enel,Energy,"$147,100"
+,,
+ United States of America,22,
+ China,11,
+ Germany,4,
+ United Kingdom,2,
+  Switzerland,2,
+ Japan,1,
+ France,1,
+ Italy,1,
+ India,1,
+ Netherlands,1,
+ South Korea,1,
+ Saudi Arabia,1,
+ Singapore,1,
+ Taiwan,1,
+,,
+,,
+Walmart,Retail,"$648,125"
+Amazon,"Retail
+information technology","$574,785"
+State Grid Corporation of China,Electricity,"$545,948"
+Saudi Aramco,Oil and gas,"$488,980"
+China Petrochemical Corporation,Oil and gas,"$429,700"
+China National Petroleum Corporation,Oil and gas,"$476,000"
+Vitol,Commodities,"$400,000"
+Apple,Information technology,"$383,285"
+UnitedHealth Group,Healthcare,"$371,622"
+Berkshire Hathaway,Financials,"$364,482"
+CVS Health,Healthcare,"$357,776"
+Volkswagen Group,Automotive,"$348,408"
+ExxonMobil,Oil and gas,"$344,582"
+Shell,Oil and gas,"$323,183"
+China State Construction Engineering,Construction,"$320,431"
+Toyota,Automotive,"$312,018"
+McKesson,Healthcare,"$308,951"
+Alphabet,Information technology,"$307,394"
+Cencora,Healthcare,"$262,173"
+Microsoft,Information technology,"$245,122"
+Trafigura,Commodities,"$244,280"
+Costco,Retail,"$242,290"
+JPMorgan Chase,Financials,"$239,425"
+Industrial and Commercial Bank of China,Financials,"$222,484"
+TotalEnergies,Oil and gas,"$218,945"
+Glencore,Commodities,"$217,829"
+BP,Oil and gas,"$213,032"
+Cardinal Health,Healthcare,"$205,012"
+Stellantis,Automotive,"$204,908"
+Chevron,Oil and gas,"$200,949"
+China Construction Bank,Financials,"$199,826"
+Samsung Electronics,Electronics,"$198,257"
+Foxconn,Electronics,"$197,876"
+Cigna,Healthcare,"$195,265"
+Agricultural Bank of China,Financials,"$192,398"
+Schwarz Gruppe,Retail,"$180,576"
+China Railway Engineering Corporation,Construction,"$178,563"
+Cargill,Conglomerate,"$177,000"
+Ford Motor Company,Automotive,"$176,191"
+Bank of China,Financials,"$172,328"
+Bank of America,Financials,"$171,912"
+General Motors,Automotive,"$171,842"
+Elevance Health,Healthcare,"$171,340"
+BMW Group,Automotive,"$168,103"
+Tata Group,Conglomerate,"$165,500"
+Mercedes-Benz Group,Automotive,"$165,638"
+China Railway Construction Corporation,Construction,"$160,847"
+Baowu,Steel,"$157,216"
+Citigroup,Financials,"$156,820"
+Enel,Energy,"$147,100"
+,,
+ United States of America,22,
+ China,11,
+ Germany,4,
+ United Kingdom,2,
+  Switzerland,2,
+ Japan,1,
+ France,1,
+ Italy,1,
+ India,1,
+ Netherlands,1,
+ South Korea,1,
+ Saudi Arabia,1,
+ Singapore,1,
+ Taiwan,1,
+,,
+,,
+Walmart,Retail,"$648,125"
+Amazon,"Retail
+information technology","$574,785"
+State Grid Corporation of China,Electricity,"$545,948"
+Saudi Aramco,Oil and gas,"$488,980"
+China Petrochemical Corporation,Oil and gas,"$429,700"
+China National Petroleum Corporation,Oil and gas,"$476,000"
+Vitol,Commodities,"$400,000"
+Apple,Information technology,"$383,285"
+UnitedHealth Group,Healthcare,"$371,622"
+Berkshire Hathaway,Financials,"$364,482"
+CVS Health,Healthcare,"$357,776"
+Volkswagen Group,Automotive,"$348,408"
+ExxonMobil,Oil and gas,"$344,582"
+Shell,Oil and gas,"$323,183"
+China State Construction Engineering,Construction,"$320,431"
+Toyota,Automotive,"$312,018"
+McKesson,Healthcare,"$308,951"
+Alphabet,Information technology,"$307,394"
+Cencora,Healthcare,"$262,173"
+Microsoft,Information technology,"$245,122"
+Trafigura,Commodities,"$244,280"
+Costco,Retail,"$242,290"
+JPMorgan Chase,Financials,"$239,425"
+Industrial and Commercial Bank of China,Financials,"$222,484"
+TotalEnergies,Oil and gas,"$218,945"
+Glencore,Commodities,"$217,829"
+BP,Oil and gas,"$213,032"
+Cardinal Health,Healthcare,"$205,012"
+Stellantis,Automotive,"$204,908"
+Chevron,Oil and gas,"$200,949"
+China Construction Bank,Financials,"$199,826"
+Samsung Electronics,Electronics,"$198,257"
+Foxconn,Electronics,"$197,876"
+Cigna,Healthcare,"$195,265"
+Agricultural Bank of China,Financials,"$192,398"
+Schwarz Gruppe,Retail,"$180,576"
+China Railway Engineering Corporation,Construction,"$178,563"
+Cargill,Conglomerate,"$177,000"
+Ford Motor Company,Automotive,"$176,191"
+Bank of China,Financials,"$172,328"
+Bank of America,Financials,"$171,912"
+General Motors,Automotive,"$171,842"
+Elevance Health,Healthcare,"$171,340"
+BMW Group,Automotive,"$168,103"
+Tata Group,Conglomerate,"$165,500"
+Mercedes-Benz Group,Automotive,"$165,638"
+China Railway Construction Corporation,Construction,"$160,847"
+Baowu,Steel,"$157,216"
+Citigroup,Financials,"$156,820"
+Enel,Energy,"$147,100"
+,,
+ United States of America,22,
+ China,11,
+ Germany,4,
+ United Kingdom,2,
+  Switzerland,2,
+ Japan,1,
+ France,1,
+ Italy,1,
+ India,1,
+ Netherlands,1,
+ South Korea,1,
+ Saudi Arabia,1,
+ Singapore,1,
+ Taiwan,1,
+,,
+,,
+Walmart,Retail,"$648,125"
+Amazon,"Retail
+information technology","$574,785"
+State Grid Corporation of China,Electricity,"$545,948"
+Saudi Aramco,Oil and gas,"$488,980"
+China Petrochemical Corporation,Oil and gas,"$429,700"
+China National Petroleum Corporation,Oil and gas,"$476,000"
+Vitol,Commodities,"$400,000"
+Apple,Information technology,"$383,285"
+UnitedHealth Group,Healthcare,"$371,622"
+Berkshire Hathaway,Financials,"$364,482"
+CVS Health,Healthcare,"$357,776"
+Volkswagen Group,Automotive,"$348,408"
+ExxonMobil,Oil and gas,"$344,582"
+Shell,Oil and gas,"$323,183"
+China State Construction Engineering,Construction,"$320,431"
+Toyota,Automotive,"$312,018"
+McKesson,Healthcare,"$308,951"
+Alphabet,Information technology,"$307,394"
+Cencora,Healthcare,"$262,173"
+Microsoft,Information technology,"$245,122"
+Trafigura,Commodities,"$244,280"
+Costco,Retail,"$242,290"
+JPMorgan Chase,Financials,"$239,425"
+Industrial and Commercial Bank of China,Financials,"$222,484"
+TotalEnergies,Oil and gas,"$218,945"
+Glencore,Commodities,"$217,829"
+BP,Oil and gas,"$213,032"
+Cardinal Health,Healthcare,"$205,012"
+Stellantis,Automotive,"$204,908"
+Chevron,Oil and gas,"$200,949"
+China Construction Bank,Financials,"$199,826"
+Samsung Electronics,Electronics,"$198,257"
+Foxconn,Electronics,"$197,876"
+Cigna,Healthcare,"$195,265"
+Agricultural Bank of China,Financials,"$192,398"
+Schwarz Gruppe,Retail,"$180,576"
+China Railway Engineering Corporation,Construction,"$178,563"
+Cargill,Conglomerate,"$177,000"
+Ford Motor Company,Automotive,"$176,191"
+Bank of China,Financials,"$172,328"
+Bank of America,Financials,"$171,912"
+General Motors,Automotive,"$171,842"
+Elevance Health,Healthcare,"$171,340"
+BMW Group,Automotive,"$168,103"
+Tata Group,Conglomerate,"$165,500"
+Mercedes-Benz Group,Automotive,"$165,638"
+China Railway Construction Corporation,Construction,"$160,847"
+Baowu,Steel,"$157,216"
+Citigroup,Financials,"$156,820"
+Enel,Energy,"$147,100"
+,,
+ United States of America,22,
+ China,11,
+ Germany,4,
+ United Kingdom,2,
+  Switzerland,2,
+ Japan,1,
+ France,1,
+ Italy,1,
+ India,1,
+ Netherlands,1,
+ South Korea,1,
+ Saudi Arabia,1,
+ Singapore,1,
+ Taiwan,1,
+,,
+,,
+Walmart,Retail,"$648,125"
+Amazon,"Retail
+information technology","$574,785"
+State Grid Corporation of China,Electricity,"$545,948"
+Saudi Aramco,Oil and gas,"$488,980"
+China Petrochemical Corporation,Oil and gas,"$429,700"
+China National Petroleum Corporation,Oil and gas,"$476,000"
+Vitol,Commodities,"$400,000"
+Apple,Information technology,"$383,285"
+UnitedHealth Group,Healthcare,"$371,622"
+Berkshire Hathaway,Financials,"$364,482"
+CVS Health,Healthcare,"$357,776"
+Volkswagen Group,Automotive,"$348,408"
+ExxonMobil,Oil and gas,"$344,582"
+Shell,Oil and gas,"$323,183"
+China State Construction Engineering,Construction,"$320,431"
+Toyota,Automotive,"$312,018"
+McKesson,Healthcare,"$308,951"
+Alphabet,Information technology,"$307,394"
+Cencora,Healthcare,"$262,173"
+Microsoft,Information technology,"$245,122"
+Trafigura,Commodities,"$244,280"
+Costco,Retail,"$242,290"
+JPMorgan Chase,Financials,"$239,425"
+Industrial and Commercial Bank of China,Financials,"$222,484"
+TotalEnergies,Oil and gas,"$218,945"
+Glencore,Commodities,"$217,829"
+BP,Oil and gas,"$213,032"
+Cardinal Health,Healthcare,"$205,012"
+Stellantis,Automotive,"$204,908"
+Chevron,Oil and gas,"$200,949"
+China Construction Bank,Financials,"$199,826"
+Samsung Electronics,Electronics,"$198,257"
+Foxconn,Electronics,"$197,876"
+Cigna,Healthcare,"$195,265"
+Agricultural Bank of China,Financials,"$192,398"
+Schwarz Gruppe,Retail,"$180,576"
+China Railway Engineering Corporation,Construction,"$178,563"
+Cargill,Conglomerate,"$177,000"
+Ford Motor Company,Automotive,"$176,191"
+Bank of China,Financials,"$172,328"
+Bank of America,Financials,"$171,912"
+General Motors,Automotive,"$171,842"
+Elevance Health,Healthcare,"$171,340"
+BMW Group,Automotive,"$168,103"
+Tata Group,Conglomerate,"$165,500"
+Mercedes-Benz Group,Automotive,"$165,638"
+China Railway Construction Corporation,Construction,"$160,847"
+Baowu,Steel,"$157,216"
+Citigroup,Financials,"$156,820"
+Enel,Energy,"$147,100"
+,,
+ United States of America,22,
+ China,11,
+ Germany,4,
+ United Kingdom,2,
+  Switzerland,2,
+ Japan,1,
+ France,1,
+ Italy,1,
+ India,1,
+ Netherlands,1,
+ South Korea,1,
+ Saudi Arabia,1,
+ Singapore,1,
+ Taiwan,1,

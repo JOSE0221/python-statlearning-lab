@@ -1,0 +1,321 @@
+empresa,sector,ingresos_usd,ingresos_num
+Walmart,Retail,648125,648125.0
+Amazon,Retail / information technology,574785,574785.0
+State Grid Corporation of China,Electricity,545948,545948.0
+Saudi Aramco,Oil and gas,488980,488980.0
+China Petrochemical Corporation,Oil and gas,429700,429700.0
+China National Petroleum Corporation,Oil and gas,476000,476000.0
+Vitol,Commodities,400000,400000.0
+Apple,Information technology,383285,383285.0
+UnitedHealth Group,Healthcare,371622,371622.0
+Berkshire Hathaway,Financials,364482,364482.0
+CVS Health,Healthcare,357776,357776.0
+Volkswagen Group,Automotive,348408,348408.0
+ExxonMobil,Oil and gas,344582,344582.0
+Shell,Oil and gas,323183,323183.0
+China State Construction Engineering,Construction,320431,320431.0
+Toyota,Automotive,312018,312018.0
+McKesson,Healthcare,308951,308951.0
+Alphabet,Information technology,307394,307394.0
+Cencora,Healthcare,262173,262173.0
+Microsoft,Information technology,245122,245122.0
+Trafigura,Commodities,244280,244280.0
+Costco,Retail,242290,242290.0
+JPMorgan Chase,Financials,239425,239425.0
+Industrial and Commercial Bank of China,Financials,222484,222484.0
+TotalEnergies,Oil and gas,218945,218945.0
+Glencore,Commodities,217829,217829.0
+BP,Oil and gas,213032,213032.0
+Cardinal Health,Healthcare,205012,205012.0
+Stellantis,Automotive,204908,204908.0
+Chevron,Oil and gas,200949,200949.0
+China Construction Bank,Financials,199826,199826.0
+Samsung Electronics,Electronics,198257,198257.0
+Foxconn,Electronics,197876,197876.0
+Cigna,Healthcare,195265,195265.0
+Agricultural Bank of China,Financials,192398,192398.0
+Schwarz Gruppe,Retail,180576,180576.0
+China Railway Engineering Corporation,Construction,178563,178563.0
+Cargill,Conglomerate,177000,177000.0
+Ford Motor Company,Automotive,176191,176191.0
+Bank of China,Financials,172328,172328.0
+Bank of America,Financials,171912,171912.0
+General Motors,Automotive,171842,171842.0
+Elevance Health,Healthcare,171340,171340.0
+BMW Group,Automotive,168103,168103.0
+Tata Group,Conglomerate,165500,165500.0
+Mercedes-Benz Group,Automotive,165638,165638.0
+China Railway Construction Corporation,Construction,160847,160847.0
+Baowu,Steel,157216,157216.0
+Citigroup,Financials,156820,156820.0
+Enel,Energy,147100,147100.0
+ United States of America,22,,
+ China,11,,
+ Germany,4,,
+ United Kingdom,2,,
+  Switzerland,2,,
+ Japan,1,,
+ France,1,,
+ Italy,1,,
+ India,1,,
+ Netherlands,1,,
+ South Korea,1,,
+ Saudi Arabia,1,,
+ Singapore,1,,
+ Taiwan,1,,
+Walmart,Retail,648125,648125.0
+Amazon,Retail / information technology,574785,574785.0
+State Grid Corporation of China,Electricity,545948,545948.0
+Saudi Aramco,Oil and gas,488980,488980.0
+China Petrochemical Corporation,Oil and gas,429700,429700.0
+China National Petroleum Corporation,Oil and gas,476000,476000.0
+Vitol,Commodities,400000,400000.0
+Apple,Information technology,383285,383285.0
+UnitedHealth Group,Healthcare,371622,371622.0
+Berkshire Hathaway,Financials,364482,364482.0
+CVS Health,Healthcare,357776,357776.0
+Volkswagen Group,Automotive,348408,348408.0
+ExxonMobil,Oil and gas,344582,344582.0
+Shell,Oil and gas,323183,323183.0
+China State Construction Engineering,Construction,320431,320431.0
+Toyota,Automotive,312018,312018.0
+McKesson,Healthcare,308951,308951.0
+Alphabet,Information technology,307394,307394.0
+Cencora,Healthcare,262173,262173.0
+Microsoft,Information technology,245122,245122.0
+Trafigura,Commodities,244280,244280.0
+Costco,Retail,242290,242290.0
+JPMorgan Chase,Financials,239425,239425.0
+Industrial and Commercial Bank of China,Financials,222484,222484.0
+TotalEnergies,Oil and gas,218945,218945.0
+Glencore,Commodities,217829,217829.0
+BP,Oil and gas,213032,213032.0
+Cardinal Health,Healthcare,205012,205012.0
+Stellantis,Automotive,204908,204908.0
+Chevron,Oil and gas,200949,200949.0
+China Construction Bank,Financials,199826,199826.0
+Samsung Electronics,Electronics,198257,198257.0
+Foxconn,Electronics,197876,197876.0
+Cigna,Healthcare,195265,195265.0
+Agricultural Bank of China,Financials,192398,192398.0
+Schwarz Gruppe,Retail,180576,180576.0
+China Railway Engineering Corporation,Construction,178563,178563.0
+Cargill,Conglomerate,177000,177000.0
+Ford Motor Company,Automotive,176191,176191.0
+Bank of China,Financials,172328,172328.0
+Bank of America,Financials,171912,171912.0
+General Motors,Automotive,171842,171842.0
+Elevance Health,Healthcare,171340,171340.0
+BMW Group,Automotive,168103,168103.0
+Tata Group,Conglomerate,165500,165500.0
+Mercedes-Benz Group,Automotive,165638,165638.0
+China Railway Construction Corporation,Construction,160847,160847.0
+Baowu,Steel,157216,157216.0
+Citigroup,Financials,156820,156820.0
+Enel,Energy,147100,147100.0
+ United States of America,22,,
+ China,11,,
+ Germany,4,,
+ United Kingdom,2,,
+  Switzerland,2,,
+ Japan,1,,
+ France,1,,
+ Italy,1,,
+ India,1,,
+ Netherlands,1,,
+ South Korea,1,,
+ Saudi Arabia,1,,
+ Singapore,1,,
+ Taiwan,1,,
+Walmart,Retail,648125,648125.0
+Amazon,Retail / information technology,574785,574785.0
+State Grid Corporation of China,Electricity,545948,545948.0
+Saudi Aramco,Oil and gas,488980,488980.0
+China Petrochemical Corporation,Oil and gas,429700,429700.0
+China National Petroleum Corporation,Oil and gas,476000,476000.0
+Vitol,Commodities,400000,400000.0
+Apple,Information technology,383285,383285.0
+UnitedHealth Group,Healthcare,371622,371622.0
+Berkshire Hathaway,Financials,364482,364482.0
+CVS Health,Healthcare,357776,357776.0
+Volkswagen Group,Automotive,348408,348408.0
+ExxonMobil,Oil and gas,344582,344582.0
+Shell,Oil and gas,323183,323183.0
+China State Construction Engineering,Construction,320431,320431.0
+Toyota,Automotive,312018,312018.0
+McKesson,Healthcare,308951,308951.0
+Alphabet,Information technology,307394,307394.0
+Cencora,Healthcare,262173,262173.0
+Microsoft,Information technology,245122,245122.0
+Trafigura,Commodities,244280,244280.0
+Costco,Retail,242290,242290.0
+JPMorgan Chase,Financials,239425,239425.0
+Industrial and Commercial Bank of China,Financials,222484,222484.0
+TotalEnergies,Oil and gas,218945,218945.0
+Glencore,Commodities,217829,217829.0
+BP,Oil and gas,213032,213032.0
+Cardinal Health,Healthcare,205012,205012.0
+Stellantis,Automotive,204908,204908.0
+Chevron,Oil and gas,200949,200949.0
+China Construction Bank,Financials,199826,199826.0
+Samsung Electronics,Electronics,198257,198257.0
+Foxconn,Electronics,197876,197876.0
+Cigna,Healthcare,195265,195265.0
+Agricultural Bank of China,Financials,192398,192398.0
+Schwarz Gruppe,Retail,180576,180576.0
+China Railway Engineering Corporation,Construction,178563,178563.0
+Cargill,Conglomerate,177000,177000.0
+Ford Motor Company,Automotive,176191,176191.0
+Bank of China,Financials,172328,172328.0
+Bank of America,Financials,171912,171912.0
+General Motors,Automotive,171842,171842.0
+Elevance Health,Healthcare,171340,171340.0
+BMW Group,Automotive,168103,168103.0
+Tata Group,Conglomerate,165500,165500.0
+Mercedes-Benz Group,Automotive,165638,165638.0
+China Railway Construction Corporation,Construction,160847,160847.0
+Baowu,Steel,157216,157216.0
+Citigroup,Financials,156820,156820.0
+Enel,Energy,147100,147100.0
+ United States of America,22,,
+ China,11,,
+ Germany,4,,
+ United Kingdom,2,,
+  Switzerland,2,,
+ Japan,1,,
+ France,1,,
+ Italy,1,,
+ India,1,,
+ Netherlands,1,,
+ South Korea,1,,
+ Saudi Arabia,1,,
+ Singapore,1,,
+ Taiwan,1,,
+Walmart,Retail,648125,648125.0
+Amazon,Retail / information technology,574785,574785.0
+State Grid Corporation of China,Electricity,545948,545948.0
+Saudi Aramco,Oil and gas,488980,488980.0
+China Petrochemical Corporation,Oil and gas,429700,429700.0
+China National Petroleum Corporation,Oil and gas,476000,476000.0
+Vitol,Commodities,400000,400000.0
+Apple,Information technology,383285,383285.0
+UnitedHealth Group,Healthcare,371622,371622.0
+Berkshire Hathaway,Financials,364482,364482.0
+CVS Health,Healthcare,357776,357776.0
+Volkswagen Group,Automotive,348408,348408.0
+ExxonMobil,Oil and gas,344582,344582.0
+Shell,Oil and gas,323183,323183.0
+China State Construction Engineering,Construction,320431,320431.0
+Toyota,Automotive,312018,312018.0
+McKesson,Healthcare,308951,308951.0
+Alphabet,Information technology,307394,307394.0
+Cencora,Healthcare,262173,262173.0
+Microsoft,Information technology,245122,245122.0
+Trafigura,Commodities,244280,244280.0
+Costco,Retail,242290,242290.0
+JPMorgan Chase,Financials,239425,239425.0
+Industrial and Commercial Bank of China,Financials,222484,222484.0
+TotalEnergies,Oil and gas,218945,218945.0
+Glencore,Commodities,217829,217829.0
+BP,Oil and gas,213032,213032.0
+Cardinal Health,Healthcare,205012,205012.0
+Stellantis,Automotive,204908,204908.0
+Chevron,Oil and gas,200949,200949.0
+China Construction Bank,Financials,199826,199826.0
+Samsung Electronics,Electronics,198257,198257.0
+Foxconn,Electronics,197876,197876.0
+Cigna,Healthcare,195265,195265.0
+Agricultural Bank of China,Financials,192398,192398.0
+Schwarz Gruppe,Retail,180576,180576.0
+China Railway Engineering Corporation,Construction,178563,178563.0
+Cargill,Conglomerate,177000,177000.0
+Ford Motor Company,Automotive,176191,176191.0
+Bank of China,Financials,172328,172328.0
+Bank of America,Financials,171912,171912.0
+General Motors,Automotive,171842,171842.0
+Elevance Health,Healthcare,171340,171340.0
+BMW Group,Automotive,168103,168103.0
+Tata Group,Conglomerate,165500,165500.0
+Mercedes-Benz Group,Automotive,165638,165638.0
+China Railway Construction Corporation,Construction,160847,160847.0
+Baowu,Steel,157216,157216.0
+Citigroup,Financials,156820,156820.0
+Enel,Energy,147100,147100.0
+ United States of America,22,,
+ China,11,,
+ Germany,4,,
+ United Kingdom,2,,
+  Switzerland,2,,
+ Japan,1,,
+ France,1,,
+ Italy,1,,
+ India,1,,
+ Netherlands,1,,
+ South Korea,1,,
+ Saudi Arabia,1,,
+ Singapore,1,,
+ Taiwan,1,,
+Walmart,Retail,648125,648125.0
+Amazon,Retail / information technology,574785,574785.0
+State Grid Corporation of China,Electricity,545948,545948.0
+Saudi Aramco,Oil and gas,488980,488980.0
+China Petrochemical Corporation,Oil and gas,429700,429700.0
+China National Petroleum Corporation,Oil and gas,476000,476000.0
+Vitol,Commodities,400000,400000.0
+Apple,Information technology,383285,383285.0
+UnitedHealth Group,Healthcare,371622,371622.0
+Berkshire Hathaway,Financials,364482,364482.0
+CVS Health,Healthcare,357776,357776.0
+Volkswagen Group,Automotive,348408,348408.0
+ExxonMobil,Oil and gas,344582,344582.0
+Shell,Oil and gas,323183,323183.0
+China State Construction Engineering,Construction,320431,320431.0
+Toyota,Automotive,312018,312018.0
+McKesson,Healthcare,308951,308951.0
+Alphabet,Information technology,307394,307394.0
+Cencora,Healthcare,262173,262173.0
+Microsoft,Information technology,245122,245122.0
+Trafigura,Commodities,244280,244280.0
+Costco,Retail,242290,242290.0
+JPMorgan Chase,Financials,239425,239425.0
+Industrial and Commercial Bank of China,Financials,222484,222484.0
+TotalEnergies,Oil and gas,218945,218945.0
+Glencore,Commodities,217829,217829.0
+BP,Oil and gas,213032,213032.0
+Cardinal Health,Healthcare,205012,205012.0
+Stellantis,Automotive,204908,204908.0
+Chevron,Oil and gas,200949,200949.0
+China Construction Bank,Financials,199826,199826.0
+Samsung Electronics,Electronics,198257,198257.0
+Foxconn,Electronics,197876,197876.0
+Cigna,Healthcare,195265,195265.0
+Agricultural Bank of China,Financials,192398,192398.0
+Schwarz Gruppe,Retail,180576,180576.0
+China Railway Engineering Corporation,Construction,178563,178563.0
+Cargill,Conglomerate,177000,177000.0
+Ford Motor Company,Automotive,176191,176191.0
+Bank of China,Financials,172328,172328.0
+Bank of America,Financials,171912,171912.0
+General Motors,Automotive,171842,171842.0
+Elevance Health,Healthcare,171340,171340.0
+BMW Group,Automotive,168103,168103.0
+Tata Group,Conglomerate,165500,165500.0
+Mercedes-Benz Group,Automotive,165638,165638.0
+China Railway Construction Corporation,Construction,160847,160847.0
+Baowu,Steel,157216,157216.0
+Citigroup,Financials,156820,156820.0
+Enel,Energy,147100,147100.0
+ United States of America,22,,
+ China,11,,
+ Germany,4,,
+ United Kingdom,2,,
+  Switzerland,2,,
+ Japan,1,,
+ France,1,,
+ Italy,1,,
+ India,1,,
+ Netherlands,1,,
+ South Korea,1,,
+ Saudi Arabia,1,,
+ Singapore,1,,
+ Taiwan,1,,

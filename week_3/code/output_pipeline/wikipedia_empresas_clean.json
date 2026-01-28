@@ -1,0 +1,1922 @@
+[
+  {
+    "empresa":"Walmart",
+    "sector":"Retail",
+    "ingresos_usd":"648125",
+    "ingresos_num":648125.0
+  },
+  {
+    "empresa":"Amazon",
+    "sector":"Retail \/ information technology",
+    "ingresos_usd":"574785",
+    "ingresos_num":574785.0
+  },
+  {
+    "empresa":"State Grid Corporation of China",
+    "sector":"Electricity",
+    "ingresos_usd":"545948",
+    "ingresos_num":545948.0
+  },
+  {
+    "empresa":"Saudi Aramco",
+    "sector":"Oil and gas",
+    "ingresos_usd":"488980",
+    "ingresos_num":488980.0
+  },
+  {
+    "empresa":"China Petrochemical Corporation",
+    "sector":"Oil and gas",
+    "ingresos_usd":"429700",
+    "ingresos_num":429700.0
+  },
+  {
+    "empresa":"China National Petroleum Corporation",
+    "sector":"Oil and gas",
+    "ingresos_usd":"476000",
+    "ingresos_num":476000.0
+  },
+  {
+    "empresa":"Vitol",
+    "sector":"Commodities",
+    "ingresos_usd":"400000",
+    "ingresos_num":400000.0
+  },
+  {
+    "empresa":"Apple",
+    "sector":"Information technology",
+    "ingresos_usd":"383285",
+    "ingresos_num":383285.0
+  },
+  {
+    "empresa":"UnitedHealth Group",
+    "sector":"Healthcare",
+    "ingresos_usd":"371622",
+    "ingresos_num":371622.0
+  },
+  {
+    "empresa":"Berkshire Hathaway",
+    "sector":"Financials",
+    "ingresos_usd":"364482",
+    "ingresos_num":364482.0
+  },
+  {
+    "empresa":"CVS Health",
+    "sector":"Healthcare",
+    "ingresos_usd":"357776",
+    "ingresos_num":357776.0
+  },
+  {
+    "empresa":"Volkswagen Group",
+    "sector":"Automotive",
+    "ingresos_usd":"348408",
+    "ingresos_num":348408.0
+  },
+  {
+    "empresa":"ExxonMobil",
+    "sector":"Oil and gas",
+    "ingresos_usd":"344582",
+    "ingresos_num":344582.0
+  },
+  {
+    "empresa":"Shell",
+    "sector":"Oil and gas",
+    "ingresos_usd":"323183",
+    "ingresos_num":323183.0
+  },
+  {
+    "empresa":"China State Construction Engineering",
+    "sector":"Construction",
+    "ingresos_usd":"320431",
+    "ingresos_num":320431.0
+  },
+  {
+    "empresa":"Toyota",
+    "sector":"Automotive",
+    "ingresos_usd":"312018",
+    "ingresos_num":312018.0
+  },
+  {
+    "empresa":"McKesson",
+    "sector":"Healthcare",
+    "ingresos_usd":"308951",
+    "ingresos_num":308951.0
+  },
+  {
+    "empresa":"Alphabet",
+    "sector":"Information technology",
+    "ingresos_usd":"307394",
+    "ingresos_num":307394.0
+  },
+  {
+    "empresa":"Cencora",
+    "sector":"Healthcare",
+    "ingresos_usd":"262173",
+    "ingresos_num":262173.0
+  },
+  {
+    "empresa":"Microsoft",
+    "sector":"Information technology",
+    "ingresos_usd":"245122",
+    "ingresos_num":245122.0
+  },
+  {
+    "empresa":"Trafigura",
+    "sector":"Commodities",
+    "ingresos_usd":"244280",
+    "ingresos_num":244280.0
+  },
+  {
+    "empresa":"Costco",
+    "sector":"Retail",
+    "ingresos_usd":"242290",
+    "ingresos_num":242290.0
+  },
+  {
+    "empresa":"JPMorgan Chase",
+    "sector":"Financials",
+    "ingresos_usd":"239425",
+    "ingresos_num":239425.0
+  },
+  {
+    "empresa":"Industrial and Commercial Bank of China",
+    "sector":"Financials",
+    "ingresos_usd":"222484",
+    "ingresos_num":222484.0
+  },
+  {
+    "empresa":"TotalEnergies",
+    "sector":"Oil and gas",
+    "ingresos_usd":"218945",
+    "ingresos_num":218945.0
+  },
+  {
+    "empresa":"Glencore",
+    "sector":"Commodities",
+    "ingresos_usd":"217829",
+    "ingresos_num":217829.0
+  },
+  {
+    "empresa":"BP",
+    "sector":"Oil and gas",
+    "ingresos_usd":"213032",
+    "ingresos_num":213032.0
+  },
+  {
+    "empresa":"Cardinal Health",
+    "sector":"Healthcare",
+    "ingresos_usd":"205012",
+    "ingresos_num":205012.0
+  },
+  {
+    "empresa":"Stellantis",
+    "sector":"Automotive",
+    "ingresos_usd":"204908",
+    "ingresos_num":204908.0
+  },
+  {
+    "empresa":"Chevron",
+    "sector":"Oil and gas",
+    "ingresos_usd":"200949",
+    "ingresos_num":200949.0
+  },
+  {
+    "empresa":"China Construction Bank",
+    "sector":"Financials",
+    "ingresos_usd":"199826",
+    "ingresos_num":199826.0
+  },
+  {
+    "empresa":"Samsung Electronics",
+    "sector":"Electronics",
+    "ingresos_usd":"198257",
+    "ingresos_num":198257.0
+  },
+  {
+    "empresa":"Foxconn",
+    "sector":"Electronics",
+    "ingresos_usd":"197876",
+    "ingresos_num":197876.0
+  },
+  {
+    "empresa":"Cigna",
+    "sector":"Healthcare",
+    "ingresos_usd":"195265",
+    "ingresos_num":195265.0
+  },
+  {
+    "empresa":"Agricultural Bank of China",
+    "sector":"Financials",
+    "ingresos_usd":"192398",
+    "ingresos_num":192398.0
+  },
+  {
+    "empresa":"Schwarz Gruppe",
+    "sector":"Retail",
+    "ingresos_usd":"180576",
+    "ingresos_num":180576.0
+  },
+  {
+    "empresa":"China Railway Engineering Corporation",
+    "sector":"Construction",
+    "ingresos_usd":"178563",
+    "ingresos_num":178563.0
+  },
+  {
+    "empresa":"Cargill",
+    "sector":"Conglomerate",
+    "ingresos_usd":"177000",
+    "ingresos_num":177000.0
+  },
+  {
+    "empresa":"Ford Motor Company",
+    "sector":"Automotive",
+    "ingresos_usd":"176191",
+    "ingresos_num":176191.0
+  },
+  {
+    "empresa":"Bank of China",
+    "sector":"Financials",
+    "ingresos_usd":"172328",
+    "ingresos_num":172328.0
+  },
+  {
+    "empresa":"Bank of America",
+    "sector":"Financials",
+    "ingresos_usd":"171912",
+    "ingresos_num":171912.0
+  },
+  {
+    "empresa":"General Motors",
+    "sector":"Automotive",
+    "ingresos_usd":"171842",
+    "ingresos_num":171842.0
+  },
+  {
+    "empresa":"Elevance Health",
+    "sector":"Healthcare",
+    "ingresos_usd":"171340",
+    "ingresos_num":171340.0
+  },
+  {
+    "empresa":"BMW Group",
+    "sector":"Automotive",
+    "ingresos_usd":"168103",
+    "ingresos_num":168103.0
+  },
+  {
+    "empresa":"Tata Group",
+    "sector":"Conglomerate",
+    "ingresos_usd":"165500",
+    "ingresos_num":165500.0
+  },
+  {
+    "empresa":"Mercedes-Benz Group",
+    "sector":"Automotive",
+    "ingresos_usd":"165638",
+    "ingresos_num":165638.0
+  },
+  {
+    "empresa":"China Railway Construction Corporation",
+    "sector":"Construction",
+    "ingresos_usd":"160847",
+    "ingresos_num":160847.0
+  },
+  {
+    "empresa":"Baowu",
+    "sector":"Steel",
+    "ingresos_usd":"157216",
+    "ingresos_num":157216.0
+  },
+  {
+    "empresa":"Citigroup",
+    "sector":"Financials",
+    "ingresos_usd":"156820",
+    "ingresos_num":156820.0
+  },
+  {
+    "empresa":"Enel",
+    "sector":"Energy",
+    "ingresos_usd":"147100",
+    "ingresos_num":147100.0
+  },
+  {
+    "empresa":" United States of America",
+    "sector":"22",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" China",
+    "sector":"11",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Germany",
+    "sector":"4",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" United Kingdom",
+    "sector":"2",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":"  Switzerland",
+    "sector":"2",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Japan",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" France",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Italy",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" India",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Netherlands",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" South Korea",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Saudi Arabia",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Singapore",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Taiwan",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":"Walmart",
+    "sector":"Retail",
+    "ingresos_usd":"648125",
+    "ingresos_num":648125.0
+  },
+  {
+    "empresa":"Amazon",
+    "sector":"Retail \/ information technology",
+    "ingresos_usd":"574785",
+    "ingresos_num":574785.0
+  },
+  {
+    "empresa":"State Grid Corporation of China",
+    "sector":"Electricity",
+    "ingresos_usd":"545948",
+    "ingresos_num":545948.0
+  },
+  {
+    "empresa":"Saudi Aramco",
+    "sector":"Oil and gas",
+    "ingresos_usd":"488980",
+    "ingresos_num":488980.0
+  },
+  {
+    "empresa":"China Petrochemical Corporation",
+    "sector":"Oil and gas",
+    "ingresos_usd":"429700",
+    "ingresos_num":429700.0
+  },
+  {
+    "empresa":"China National Petroleum Corporation",
+    "sector":"Oil and gas",
+    "ingresos_usd":"476000",
+    "ingresos_num":476000.0
+  },
+  {
+    "empresa":"Vitol",
+    "sector":"Commodities",
+    "ingresos_usd":"400000",
+    "ingresos_num":400000.0
+  },
+  {
+    "empresa":"Apple",
+    "sector":"Information technology",
+    "ingresos_usd":"383285",
+    "ingresos_num":383285.0
+  },
+  {
+    "empresa":"UnitedHealth Group",
+    "sector":"Healthcare",
+    "ingresos_usd":"371622",
+    "ingresos_num":371622.0
+  },
+  {
+    "empresa":"Berkshire Hathaway",
+    "sector":"Financials",
+    "ingresos_usd":"364482",
+    "ingresos_num":364482.0
+  },
+  {
+    "empresa":"CVS Health",
+    "sector":"Healthcare",
+    "ingresos_usd":"357776",
+    "ingresos_num":357776.0
+  },
+  {
+    "empresa":"Volkswagen Group",
+    "sector":"Automotive",
+    "ingresos_usd":"348408",
+    "ingresos_num":348408.0
+  },
+  {
+    "empresa":"ExxonMobil",
+    "sector":"Oil and gas",
+    "ingresos_usd":"344582",
+    "ingresos_num":344582.0
+  },
+  {
+    "empresa":"Shell",
+    "sector":"Oil and gas",
+    "ingresos_usd":"323183",
+    "ingresos_num":323183.0
+  },
+  {
+    "empresa":"China State Construction Engineering",
+    "sector":"Construction",
+    "ingresos_usd":"320431",
+    "ingresos_num":320431.0
+  },
+  {
+    "empresa":"Toyota",
+    "sector":"Automotive",
+    "ingresos_usd":"312018",
+    "ingresos_num":312018.0
+  },
+  {
+    "empresa":"McKesson",
+    "sector":"Healthcare",
+    "ingresos_usd":"308951",
+    "ingresos_num":308951.0
+  },
+  {
+    "empresa":"Alphabet",
+    "sector":"Information technology",
+    "ingresos_usd":"307394",
+    "ingresos_num":307394.0
+  },
+  {
+    "empresa":"Cencora",
+    "sector":"Healthcare",
+    "ingresos_usd":"262173",
+    "ingresos_num":262173.0
+  },
+  {
+    "empresa":"Microsoft",
+    "sector":"Information technology",
+    "ingresos_usd":"245122",
+    "ingresos_num":245122.0
+  },
+  {
+    "empresa":"Trafigura",
+    "sector":"Commodities",
+    "ingresos_usd":"244280",
+    "ingresos_num":244280.0
+  },
+  {
+    "empresa":"Costco",
+    "sector":"Retail",
+    "ingresos_usd":"242290",
+    "ingresos_num":242290.0
+  },
+  {
+    "empresa":"JPMorgan Chase",
+    "sector":"Financials",
+    "ingresos_usd":"239425",
+    "ingresos_num":239425.0
+  },
+  {
+    "empresa":"Industrial and Commercial Bank of China",
+    "sector":"Financials",
+    "ingresos_usd":"222484",
+    "ingresos_num":222484.0
+  },
+  {
+    "empresa":"TotalEnergies",
+    "sector":"Oil and gas",
+    "ingresos_usd":"218945",
+    "ingresos_num":218945.0
+  },
+  {
+    "empresa":"Glencore",
+    "sector":"Commodities",
+    "ingresos_usd":"217829",
+    "ingresos_num":217829.0
+  },
+  {
+    "empresa":"BP",
+    "sector":"Oil and gas",
+    "ingresos_usd":"213032",
+    "ingresos_num":213032.0
+  },
+  {
+    "empresa":"Cardinal Health",
+    "sector":"Healthcare",
+    "ingresos_usd":"205012",
+    "ingresos_num":205012.0
+  },
+  {
+    "empresa":"Stellantis",
+    "sector":"Automotive",
+    "ingresos_usd":"204908",
+    "ingresos_num":204908.0
+  },
+  {
+    "empresa":"Chevron",
+    "sector":"Oil and gas",
+    "ingresos_usd":"200949",
+    "ingresos_num":200949.0
+  },
+  {
+    "empresa":"China Construction Bank",
+    "sector":"Financials",
+    "ingresos_usd":"199826",
+    "ingresos_num":199826.0
+  },
+  {
+    "empresa":"Samsung Electronics",
+    "sector":"Electronics",
+    "ingresos_usd":"198257",
+    "ingresos_num":198257.0
+  },
+  {
+    "empresa":"Foxconn",
+    "sector":"Electronics",
+    "ingresos_usd":"197876",
+    "ingresos_num":197876.0
+  },
+  {
+    "empresa":"Cigna",
+    "sector":"Healthcare",
+    "ingresos_usd":"195265",
+    "ingresos_num":195265.0
+  },
+  {
+    "empresa":"Agricultural Bank of China",
+    "sector":"Financials",
+    "ingresos_usd":"192398",
+    "ingresos_num":192398.0
+  },
+  {
+    "empresa":"Schwarz Gruppe",
+    "sector":"Retail",
+    "ingresos_usd":"180576",
+    "ingresos_num":180576.0
+  },
+  {
+    "empresa":"China Railway Engineering Corporation",
+    "sector":"Construction",
+    "ingresos_usd":"178563",
+    "ingresos_num":178563.0
+  },
+  {
+    "empresa":"Cargill",
+    "sector":"Conglomerate",
+    "ingresos_usd":"177000",
+    "ingresos_num":177000.0
+  },
+  {
+    "empresa":"Ford Motor Company",
+    "sector":"Automotive",
+    "ingresos_usd":"176191",
+    "ingresos_num":176191.0
+  },
+  {
+    "empresa":"Bank of China",
+    "sector":"Financials",
+    "ingresos_usd":"172328",
+    "ingresos_num":172328.0
+  },
+  {
+    "empresa":"Bank of America",
+    "sector":"Financials",
+    "ingresos_usd":"171912",
+    "ingresos_num":171912.0
+  },
+  {
+    "empresa":"General Motors",
+    "sector":"Automotive",
+    "ingresos_usd":"171842",
+    "ingresos_num":171842.0
+  },
+  {
+    "empresa":"Elevance Health",
+    "sector":"Healthcare",
+    "ingresos_usd":"171340",
+    "ingresos_num":171340.0
+  },
+  {
+    "empresa":"BMW Group",
+    "sector":"Automotive",
+    "ingresos_usd":"168103",
+    "ingresos_num":168103.0
+  },
+  {
+    "empresa":"Tata Group",
+    "sector":"Conglomerate",
+    "ingresos_usd":"165500",
+    "ingresos_num":165500.0
+  },
+  {
+    "empresa":"Mercedes-Benz Group",
+    "sector":"Automotive",
+    "ingresos_usd":"165638",
+    "ingresos_num":165638.0
+  },
+  {
+    "empresa":"China Railway Construction Corporation",
+    "sector":"Construction",
+    "ingresos_usd":"160847",
+    "ingresos_num":160847.0
+  },
+  {
+    "empresa":"Baowu",
+    "sector":"Steel",
+    "ingresos_usd":"157216",
+    "ingresos_num":157216.0
+  },
+  {
+    "empresa":"Citigroup",
+    "sector":"Financials",
+    "ingresos_usd":"156820",
+    "ingresos_num":156820.0
+  },
+  {
+    "empresa":"Enel",
+    "sector":"Energy",
+    "ingresos_usd":"147100",
+    "ingresos_num":147100.0
+  },
+  {
+    "empresa":" United States of America",
+    "sector":"22",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" China",
+    "sector":"11",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Germany",
+    "sector":"4",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" United Kingdom",
+    "sector":"2",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":"  Switzerland",
+    "sector":"2",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Japan",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" France",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Italy",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" India",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Netherlands",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" South Korea",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Saudi Arabia",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Singapore",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Taiwan",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":"Walmart",
+    "sector":"Retail",
+    "ingresos_usd":"648125",
+    "ingresos_num":648125.0
+  },
+  {
+    "empresa":"Amazon",
+    "sector":"Retail \/ information technology",
+    "ingresos_usd":"574785",
+    "ingresos_num":574785.0
+  },
+  {
+    "empresa":"State Grid Corporation of China",
+    "sector":"Electricity",
+    "ingresos_usd":"545948",
+    "ingresos_num":545948.0
+  },
+  {
+    "empresa":"Saudi Aramco",
+    "sector":"Oil and gas",
+    "ingresos_usd":"488980",
+    "ingresos_num":488980.0
+  },
+  {
+    "empresa":"China Petrochemical Corporation",
+    "sector":"Oil and gas",
+    "ingresos_usd":"429700",
+    "ingresos_num":429700.0
+  },
+  {
+    "empresa":"China National Petroleum Corporation",
+    "sector":"Oil and gas",
+    "ingresos_usd":"476000",
+    "ingresos_num":476000.0
+  },
+  {
+    "empresa":"Vitol",
+    "sector":"Commodities",
+    "ingresos_usd":"400000",
+    "ingresos_num":400000.0
+  },
+  {
+    "empresa":"Apple",
+    "sector":"Information technology",
+    "ingresos_usd":"383285",
+    "ingresos_num":383285.0
+  },
+  {
+    "empresa":"UnitedHealth Group",
+    "sector":"Healthcare",
+    "ingresos_usd":"371622",
+    "ingresos_num":371622.0
+  },
+  {
+    "empresa":"Berkshire Hathaway",
+    "sector":"Financials",
+    "ingresos_usd":"364482",
+    "ingresos_num":364482.0
+  },
+  {
+    "empresa":"CVS Health",
+    "sector":"Healthcare",
+    "ingresos_usd":"357776",
+    "ingresos_num":357776.0
+  },
+  {
+    "empresa":"Volkswagen Group",
+    "sector":"Automotive",
+    "ingresos_usd":"348408",
+    "ingresos_num":348408.0
+  },
+  {
+    "empresa":"ExxonMobil",
+    "sector":"Oil and gas",
+    "ingresos_usd":"344582",
+    "ingresos_num":344582.0
+  },
+  {
+    "empresa":"Shell",
+    "sector":"Oil and gas",
+    "ingresos_usd":"323183",
+    "ingresos_num":323183.0
+  },
+  {
+    "empresa":"China State Construction Engineering",
+    "sector":"Construction",
+    "ingresos_usd":"320431",
+    "ingresos_num":320431.0
+  },
+  {
+    "empresa":"Toyota",
+    "sector":"Automotive",
+    "ingresos_usd":"312018",
+    "ingresos_num":312018.0
+  },
+  {
+    "empresa":"McKesson",
+    "sector":"Healthcare",
+    "ingresos_usd":"308951",
+    "ingresos_num":308951.0
+  },
+  {
+    "empresa":"Alphabet",
+    "sector":"Information technology",
+    "ingresos_usd":"307394",
+    "ingresos_num":307394.0
+  },
+  {
+    "empresa":"Cencora",
+    "sector":"Healthcare",
+    "ingresos_usd":"262173",
+    "ingresos_num":262173.0
+  },
+  {
+    "empresa":"Microsoft",
+    "sector":"Information technology",
+    "ingresos_usd":"245122",
+    "ingresos_num":245122.0
+  },
+  {
+    "empresa":"Trafigura",
+    "sector":"Commodities",
+    "ingresos_usd":"244280",
+    "ingresos_num":244280.0
+  },
+  {
+    "empresa":"Costco",
+    "sector":"Retail",
+    "ingresos_usd":"242290",
+    "ingresos_num":242290.0
+  },
+  {
+    "empresa":"JPMorgan Chase",
+    "sector":"Financials",
+    "ingresos_usd":"239425",
+    "ingresos_num":239425.0
+  },
+  {
+    "empresa":"Industrial and Commercial Bank of China",
+    "sector":"Financials",
+    "ingresos_usd":"222484",
+    "ingresos_num":222484.0
+  },
+  {
+    "empresa":"TotalEnergies",
+    "sector":"Oil and gas",
+    "ingresos_usd":"218945",
+    "ingresos_num":218945.0
+  },
+  {
+    "empresa":"Glencore",
+    "sector":"Commodities",
+    "ingresos_usd":"217829",
+    "ingresos_num":217829.0
+  },
+  {
+    "empresa":"BP",
+    "sector":"Oil and gas",
+    "ingresos_usd":"213032",
+    "ingresos_num":213032.0
+  },
+  {
+    "empresa":"Cardinal Health",
+    "sector":"Healthcare",
+    "ingresos_usd":"205012",
+    "ingresos_num":205012.0
+  },
+  {
+    "empresa":"Stellantis",
+    "sector":"Automotive",
+    "ingresos_usd":"204908",
+    "ingresos_num":204908.0
+  },
+  {
+    "empresa":"Chevron",
+    "sector":"Oil and gas",
+    "ingresos_usd":"200949",
+    "ingresos_num":200949.0
+  },
+  {
+    "empresa":"China Construction Bank",
+    "sector":"Financials",
+    "ingresos_usd":"199826",
+    "ingresos_num":199826.0
+  },
+  {
+    "empresa":"Samsung Electronics",
+    "sector":"Electronics",
+    "ingresos_usd":"198257",
+    "ingresos_num":198257.0
+  },
+  {
+    "empresa":"Foxconn",
+    "sector":"Electronics",
+    "ingresos_usd":"197876",
+    "ingresos_num":197876.0
+  },
+  {
+    "empresa":"Cigna",
+    "sector":"Healthcare",
+    "ingresos_usd":"195265",
+    "ingresos_num":195265.0
+  },
+  {
+    "empresa":"Agricultural Bank of China",
+    "sector":"Financials",
+    "ingresos_usd":"192398",
+    "ingresos_num":192398.0
+  },
+  {
+    "empresa":"Schwarz Gruppe",
+    "sector":"Retail",
+    "ingresos_usd":"180576",
+    "ingresos_num":180576.0
+  },
+  {
+    "empresa":"China Railway Engineering Corporation",
+    "sector":"Construction",
+    "ingresos_usd":"178563",
+    "ingresos_num":178563.0
+  },
+  {
+    "empresa":"Cargill",
+    "sector":"Conglomerate",
+    "ingresos_usd":"177000",
+    "ingresos_num":177000.0
+  },
+  {
+    "empresa":"Ford Motor Company",
+    "sector":"Automotive",
+    "ingresos_usd":"176191",
+    "ingresos_num":176191.0
+  },
+  {
+    "empresa":"Bank of China",
+    "sector":"Financials",
+    "ingresos_usd":"172328",
+    "ingresos_num":172328.0
+  },
+  {
+    "empresa":"Bank of America",
+    "sector":"Financials",
+    "ingresos_usd":"171912",
+    "ingresos_num":171912.0
+  },
+  {
+    "empresa":"General Motors",
+    "sector":"Automotive",
+    "ingresos_usd":"171842",
+    "ingresos_num":171842.0
+  },
+  {
+    "empresa":"Elevance Health",
+    "sector":"Healthcare",
+    "ingresos_usd":"171340",
+    "ingresos_num":171340.0
+  },
+  {
+    "empresa":"BMW Group",
+    "sector":"Automotive",
+    "ingresos_usd":"168103",
+    "ingresos_num":168103.0
+  },
+  {
+    "empresa":"Tata Group",
+    "sector":"Conglomerate",
+    "ingresos_usd":"165500",
+    "ingresos_num":165500.0
+  },
+  {
+    "empresa":"Mercedes-Benz Group",
+    "sector":"Automotive",
+    "ingresos_usd":"165638",
+    "ingresos_num":165638.0
+  },
+  {
+    "empresa":"China Railway Construction Corporation",
+    "sector":"Construction",
+    "ingresos_usd":"160847",
+    "ingresos_num":160847.0
+  },
+  {
+    "empresa":"Baowu",
+    "sector":"Steel",
+    "ingresos_usd":"157216",
+    "ingresos_num":157216.0
+  },
+  {
+    "empresa":"Citigroup",
+    "sector":"Financials",
+    "ingresos_usd":"156820",
+    "ingresos_num":156820.0
+  },
+  {
+    "empresa":"Enel",
+    "sector":"Energy",
+    "ingresos_usd":"147100",
+    "ingresos_num":147100.0
+  },
+  {
+    "empresa":" United States of America",
+    "sector":"22",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" China",
+    "sector":"11",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Germany",
+    "sector":"4",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" United Kingdom",
+    "sector":"2",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":"  Switzerland",
+    "sector":"2",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Japan",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" France",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Italy",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" India",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Netherlands",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" South Korea",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Saudi Arabia",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Singapore",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Taiwan",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":"Walmart",
+    "sector":"Retail",
+    "ingresos_usd":"648125",
+    "ingresos_num":648125.0
+  },
+  {
+    "empresa":"Amazon",
+    "sector":"Retail \/ information technology",
+    "ingresos_usd":"574785",
+    "ingresos_num":574785.0
+  },
+  {
+    "empresa":"State Grid Corporation of China",
+    "sector":"Electricity",
+    "ingresos_usd":"545948",
+    "ingresos_num":545948.0
+  },
+  {
+    "empresa":"Saudi Aramco",
+    "sector":"Oil and gas",
+    "ingresos_usd":"488980",
+    "ingresos_num":488980.0
+  },
+  {
+    "empresa":"China Petrochemical Corporation",
+    "sector":"Oil and gas",
+    "ingresos_usd":"429700",
+    "ingresos_num":429700.0
+  },
+  {
+    "empresa":"China National Petroleum Corporation",
+    "sector":"Oil and gas",
+    "ingresos_usd":"476000",
+    "ingresos_num":476000.0
+  },
+  {
+    "empresa":"Vitol",
+    "sector":"Commodities",
+    "ingresos_usd":"400000",
+    "ingresos_num":400000.0
+  },
+  {
+    "empresa":"Apple",
+    "sector":"Information technology",
+    "ingresos_usd":"383285",
+    "ingresos_num":383285.0
+  },
+  {
+    "empresa":"UnitedHealth Group",
+    "sector":"Healthcare",
+    "ingresos_usd":"371622",
+    "ingresos_num":371622.0
+  },
+  {
+    "empresa":"Berkshire Hathaway",
+    "sector":"Financials",
+    "ingresos_usd":"364482",
+    "ingresos_num":364482.0
+  },
+  {
+    "empresa":"CVS Health",
+    "sector":"Healthcare",
+    "ingresos_usd":"357776",
+    "ingresos_num":357776.0
+  },
+  {
+    "empresa":"Volkswagen Group",
+    "sector":"Automotive",
+    "ingresos_usd":"348408",
+    "ingresos_num":348408.0
+  },
+  {
+    "empresa":"ExxonMobil",
+    "sector":"Oil and gas",
+    "ingresos_usd":"344582",
+    "ingresos_num":344582.0
+  },
+  {
+    "empresa":"Shell",
+    "sector":"Oil and gas",
+    "ingresos_usd":"323183",
+    "ingresos_num":323183.0
+  },
+  {
+    "empresa":"China State Construction Engineering",
+    "sector":"Construction",
+    "ingresos_usd":"320431",
+    "ingresos_num":320431.0
+  },
+  {
+    "empresa":"Toyota",
+    "sector":"Automotive",
+    "ingresos_usd":"312018",
+    "ingresos_num":312018.0
+  },
+  {
+    "empresa":"McKesson",
+    "sector":"Healthcare",
+    "ingresos_usd":"308951",
+    "ingresos_num":308951.0
+  },
+  {
+    "empresa":"Alphabet",
+    "sector":"Information technology",
+    "ingresos_usd":"307394",
+    "ingresos_num":307394.0
+  },
+  {
+    "empresa":"Cencora",
+    "sector":"Healthcare",
+    "ingresos_usd":"262173",
+    "ingresos_num":262173.0
+  },
+  {
+    "empresa":"Microsoft",
+    "sector":"Information technology",
+    "ingresos_usd":"245122",
+    "ingresos_num":245122.0
+  },
+  {
+    "empresa":"Trafigura",
+    "sector":"Commodities",
+    "ingresos_usd":"244280",
+    "ingresos_num":244280.0
+  },
+  {
+    "empresa":"Costco",
+    "sector":"Retail",
+    "ingresos_usd":"242290",
+    "ingresos_num":242290.0
+  },
+  {
+    "empresa":"JPMorgan Chase",
+    "sector":"Financials",
+    "ingresos_usd":"239425",
+    "ingresos_num":239425.0
+  },
+  {
+    "empresa":"Industrial and Commercial Bank of China",
+    "sector":"Financials",
+    "ingresos_usd":"222484",
+    "ingresos_num":222484.0
+  },
+  {
+    "empresa":"TotalEnergies",
+    "sector":"Oil and gas",
+    "ingresos_usd":"218945",
+    "ingresos_num":218945.0
+  },
+  {
+    "empresa":"Glencore",
+    "sector":"Commodities",
+    "ingresos_usd":"217829",
+    "ingresos_num":217829.0
+  },
+  {
+    "empresa":"BP",
+    "sector":"Oil and gas",
+    "ingresos_usd":"213032",
+    "ingresos_num":213032.0
+  },
+  {
+    "empresa":"Cardinal Health",
+    "sector":"Healthcare",
+    "ingresos_usd":"205012",
+    "ingresos_num":205012.0
+  },
+  {
+    "empresa":"Stellantis",
+    "sector":"Automotive",
+    "ingresos_usd":"204908",
+    "ingresos_num":204908.0
+  },
+  {
+    "empresa":"Chevron",
+    "sector":"Oil and gas",
+    "ingresos_usd":"200949",
+    "ingresos_num":200949.0
+  },
+  {
+    "empresa":"China Construction Bank",
+    "sector":"Financials",
+    "ingresos_usd":"199826",
+    "ingresos_num":199826.0
+  },
+  {
+    "empresa":"Samsung Electronics",
+    "sector":"Electronics",
+    "ingresos_usd":"198257",
+    "ingresos_num":198257.0
+  },
+  {
+    "empresa":"Foxconn",
+    "sector":"Electronics",
+    "ingresos_usd":"197876",
+    "ingresos_num":197876.0
+  },
+  {
+    "empresa":"Cigna",
+    "sector":"Healthcare",
+    "ingresos_usd":"195265",
+    "ingresos_num":195265.0
+  },
+  {
+    "empresa":"Agricultural Bank of China",
+    "sector":"Financials",
+    "ingresos_usd":"192398",
+    "ingresos_num":192398.0
+  },
+  {
+    "empresa":"Schwarz Gruppe",
+    "sector":"Retail",
+    "ingresos_usd":"180576",
+    "ingresos_num":180576.0
+  },
+  {
+    "empresa":"China Railway Engineering Corporation",
+    "sector":"Construction",
+    "ingresos_usd":"178563",
+    "ingresos_num":178563.0
+  },
+  {
+    "empresa":"Cargill",
+    "sector":"Conglomerate",
+    "ingresos_usd":"177000",
+    "ingresos_num":177000.0
+  },
+  {
+    "empresa":"Ford Motor Company",
+    "sector":"Automotive",
+    "ingresos_usd":"176191",
+    "ingresos_num":176191.0
+  },
+  {
+    "empresa":"Bank of China",
+    "sector":"Financials",
+    "ingresos_usd":"172328",
+    "ingresos_num":172328.0
+  },
+  {
+    "empresa":"Bank of America",
+    "sector":"Financials",
+    "ingresos_usd":"171912",
+    "ingresos_num":171912.0
+  },
+  {
+    "empresa":"General Motors",
+    "sector":"Automotive",
+    "ingresos_usd":"171842",
+    "ingresos_num":171842.0
+  },
+  {
+    "empresa":"Elevance Health",
+    "sector":"Healthcare",
+    "ingresos_usd":"171340",
+    "ingresos_num":171340.0
+  },
+  {
+    "empresa":"BMW Group",
+    "sector":"Automotive",
+    "ingresos_usd":"168103",
+    "ingresos_num":168103.0
+  },
+  {
+    "empresa":"Tata Group",
+    "sector":"Conglomerate",
+    "ingresos_usd":"165500",
+    "ingresos_num":165500.0
+  },
+  {
+    "empresa":"Mercedes-Benz Group",
+    "sector":"Automotive",
+    "ingresos_usd":"165638",
+    "ingresos_num":165638.0
+  },
+  {
+    "empresa":"China Railway Construction Corporation",
+    "sector":"Construction",
+    "ingresos_usd":"160847",
+    "ingresos_num":160847.0
+  },
+  {
+    "empresa":"Baowu",
+    "sector":"Steel",
+    "ingresos_usd":"157216",
+    "ingresos_num":157216.0
+  },
+  {
+    "empresa":"Citigroup",
+    "sector":"Financials",
+    "ingresos_usd":"156820",
+    "ingresos_num":156820.0
+  },
+  {
+    "empresa":"Enel",
+    "sector":"Energy",
+    "ingresos_usd":"147100",
+    "ingresos_num":147100.0
+  },
+  {
+    "empresa":" United States of America",
+    "sector":"22",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" China",
+    "sector":"11",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Germany",
+    "sector":"4",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" United Kingdom",
+    "sector":"2",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":"  Switzerland",
+    "sector":"2",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Japan",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" France",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Italy",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" India",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Netherlands",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" South Korea",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Saudi Arabia",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Singapore",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Taiwan",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":"Walmart",
+    "sector":"Retail",
+    "ingresos_usd":"648125",
+    "ingresos_num":648125.0
+  },
+  {
+    "empresa":"Amazon",
+    "sector":"Retail \/ information technology",
+    "ingresos_usd":"574785",
+    "ingresos_num":574785.0
+  },
+  {
+    "empresa":"State Grid Corporation of China",
+    "sector":"Electricity",
+    "ingresos_usd":"545948",
+    "ingresos_num":545948.0
+  },
+  {
+    "empresa":"Saudi Aramco",
+    "sector":"Oil and gas",
+    "ingresos_usd":"488980",
+    "ingresos_num":488980.0
+  },
+  {
+    "empresa":"China Petrochemical Corporation",
+    "sector":"Oil and gas",
+    "ingresos_usd":"429700",
+    "ingresos_num":429700.0
+  },
+  {
+    "empresa":"China National Petroleum Corporation",
+    "sector":"Oil and gas",
+    "ingresos_usd":"476000",
+    "ingresos_num":476000.0
+  },
+  {
+    "empresa":"Vitol",
+    "sector":"Commodities",
+    "ingresos_usd":"400000",
+    "ingresos_num":400000.0
+  },
+  {
+    "empresa":"Apple",
+    "sector":"Information technology",
+    "ingresos_usd":"383285",
+    "ingresos_num":383285.0
+  },
+  {
+    "empresa":"UnitedHealth Group",
+    "sector":"Healthcare",
+    "ingresos_usd":"371622",
+    "ingresos_num":371622.0
+  },
+  {
+    "empresa":"Berkshire Hathaway",
+    "sector":"Financials",
+    "ingresos_usd":"364482",
+    "ingresos_num":364482.0
+  },
+  {
+    "empresa":"CVS Health",
+    "sector":"Healthcare",
+    "ingresos_usd":"357776",
+    "ingresos_num":357776.0
+  },
+  {
+    "empresa":"Volkswagen Group",
+    "sector":"Automotive",
+    "ingresos_usd":"348408",
+    "ingresos_num":348408.0
+  },
+  {
+    "empresa":"ExxonMobil",
+    "sector":"Oil and gas",
+    "ingresos_usd":"344582",
+    "ingresos_num":344582.0
+  },
+  {
+    "empresa":"Shell",
+    "sector":"Oil and gas",
+    "ingresos_usd":"323183",
+    "ingresos_num":323183.0
+  },
+  {
+    "empresa":"China State Construction Engineering",
+    "sector":"Construction",
+    "ingresos_usd":"320431",
+    "ingresos_num":320431.0
+  },
+  {
+    "empresa":"Toyota",
+    "sector":"Automotive",
+    "ingresos_usd":"312018",
+    "ingresos_num":312018.0
+  },
+  {
+    "empresa":"McKesson",
+    "sector":"Healthcare",
+    "ingresos_usd":"308951",
+    "ingresos_num":308951.0
+  },
+  {
+    "empresa":"Alphabet",
+    "sector":"Information technology",
+    "ingresos_usd":"307394",
+    "ingresos_num":307394.0
+  },
+  {
+    "empresa":"Cencora",
+    "sector":"Healthcare",
+    "ingresos_usd":"262173",
+    "ingresos_num":262173.0
+  },
+  {
+    "empresa":"Microsoft",
+    "sector":"Information technology",
+    "ingresos_usd":"245122",
+    "ingresos_num":245122.0
+  },
+  {
+    "empresa":"Trafigura",
+    "sector":"Commodities",
+    "ingresos_usd":"244280",
+    "ingresos_num":244280.0
+  },
+  {
+    "empresa":"Costco",
+    "sector":"Retail",
+    "ingresos_usd":"242290",
+    "ingresos_num":242290.0
+  },
+  {
+    "empresa":"JPMorgan Chase",
+    "sector":"Financials",
+    "ingresos_usd":"239425",
+    "ingresos_num":239425.0
+  },
+  {
+    "empresa":"Industrial and Commercial Bank of China",
+    "sector":"Financials",
+    "ingresos_usd":"222484",
+    "ingresos_num":222484.0
+  },
+  {
+    "empresa":"TotalEnergies",
+    "sector":"Oil and gas",
+    "ingresos_usd":"218945",
+    "ingresos_num":218945.0
+  },
+  {
+    "empresa":"Glencore",
+    "sector":"Commodities",
+    "ingresos_usd":"217829",
+    "ingresos_num":217829.0
+  },
+  {
+    "empresa":"BP",
+    "sector":"Oil and gas",
+    "ingresos_usd":"213032",
+    "ingresos_num":213032.0
+  },
+  {
+    "empresa":"Cardinal Health",
+    "sector":"Healthcare",
+    "ingresos_usd":"205012",
+    "ingresos_num":205012.0
+  },
+  {
+    "empresa":"Stellantis",
+    "sector":"Automotive",
+    "ingresos_usd":"204908",
+    "ingresos_num":204908.0
+  },
+  {
+    "empresa":"Chevron",
+    "sector":"Oil and gas",
+    "ingresos_usd":"200949",
+    "ingresos_num":200949.0
+  },
+  {
+    "empresa":"China Construction Bank",
+    "sector":"Financials",
+    "ingresos_usd":"199826",
+    "ingresos_num":199826.0
+  },
+  {
+    "empresa":"Samsung Electronics",
+    "sector":"Electronics",
+    "ingresos_usd":"198257",
+    "ingresos_num":198257.0
+  },
+  {
+    "empresa":"Foxconn",
+    "sector":"Electronics",
+    "ingresos_usd":"197876",
+    "ingresos_num":197876.0
+  },
+  {
+    "empresa":"Cigna",
+    "sector":"Healthcare",
+    "ingresos_usd":"195265",
+    "ingresos_num":195265.0
+  },
+  {
+    "empresa":"Agricultural Bank of China",
+    "sector":"Financials",
+    "ingresos_usd":"192398",
+    "ingresos_num":192398.0
+  },
+  {
+    "empresa":"Schwarz Gruppe",
+    "sector":"Retail",
+    "ingresos_usd":"180576",
+    "ingresos_num":180576.0
+  },
+  {
+    "empresa":"China Railway Engineering Corporation",
+    "sector":"Construction",
+    "ingresos_usd":"178563",
+    "ingresos_num":178563.0
+  },
+  {
+    "empresa":"Cargill",
+    "sector":"Conglomerate",
+    "ingresos_usd":"177000",
+    "ingresos_num":177000.0
+  },
+  {
+    "empresa":"Ford Motor Company",
+    "sector":"Automotive",
+    "ingresos_usd":"176191",
+    "ingresos_num":176191.0
+  },
+  {
+    "empresa":"Bank of China",
+    "sector":"Financials",
+    "ingresos_usd":"172328",
+    "ingresos_num":172328.0
+  },
+  {
+    "empresa":"Bank of America",
+    "sector":"Financials",
+    "ingresos_usd":"171912",
+    "ingresos_num":171912.0
+  },
+  {
+    "empresa":"General Motors",
+    "sector":"Automotive",
+    "ingresos_usd":"171842",
+    "ingresos_num":171842.0
+  },
+  {
+    "empresa":"Elevance Health",
+    "sector":"Healthcare",
+    "ingresos_usd":"171340",
+    "ingresos_num":171340.0
+  },
+  {
+    "empresa":"BMW Group",
+    "sector":"Automotive",
+    "ingresos_usd":"168103",
+    "ingresos_num":168103.0
+  },
+  {
+    "empresa":"Tata Group",
+    "sector":"Conglomerate",
+    "ingresos_usd":"165500",
+    "ingresos_num":165500.0
+  },
+  {
+    "empresa":"Mercedes-Benz Group",
+    "sector":"Automotive",
+    "ingresos_usd":"165638",
+    "ingresos_num":165638.0
+  },
+  {
+    "empresa":"China Railway Construction Corporation",
+    "sector":"Construction",
+    "ingresos_usd":"160847",
+    "ingresos_num":160847.0
+  },
+  {
+    "empresa":"Baowu",
+    "sector":"Steel",
+    "ingresos_usd":"157216",
+    "ingresos_num":157216.0
+  },
+  {
+    "empresa":"Citigroup",
+    "sector":"Financials",
+    "ingresos_usd":"156820",
+    "ingresos_num":156820.0
+  },
+  {
+    "empresa":"Enel",
+    "sector":"Energy",
+    "ingresos_usd":"147100",
+    "ingresos_num":147100.0
+  },
+  {
+    "empresa":" United States of America",
+    "sector":"22",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" China",
+    "sector":"11",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Germany",
+    "sector":"4",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" United Kingdom",
+    "sector":"2",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":"  Switzerland",
+    "sector":"2",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Japan",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" France",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Italy",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" India",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Netherlands",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" South Korea",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Saudi Arabia",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Singapore",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  },
+  {
+    "empresa":" Taiwan",
+    "sector":"1",
+    "ingresos_usd":null,
+    "ingresos_num":null
+  }
+]
