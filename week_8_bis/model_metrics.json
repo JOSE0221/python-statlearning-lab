@@ -1,0 +1,22 @@
+{
+  "model": "RandomForest (class_weight=balanced)",
+  "auc_roc": 0.8639,
+  "f1_score": 0.61,
+  "accuracy": 0.8095,
+  "cv_auc_mean": 0.8575,
+  "cv_auc_std": 0.0124,
+  "n_train": 8000,
+  "n_test": 2000,
+  "features": [
+    "CreditScore",
+    "Geography",
+    "Gender",
+    "Age",
+    "Tenure",
+    "Balance",
+    "NumOfProducts",
+    "HasCrCard",
+    "IsActiveMember",
+    "EstimatedSalary"
+  ]
+}
